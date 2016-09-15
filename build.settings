@@ -1,0 +1,16 @@
+-- build.settings for project: SideScroller
+-- Managed with http://OutlawGameTools.com
+-- Copyright 2013 Brian Burton. All Rights Reserved.
+-- cpmgen build.settings
+settings =
+{
+	orientation =
+	{
+		default ="landscapeRight",
+		supported =
+		{
+			"landscapeLeft","landscapeRight"
+		},
+	},
+
+}
